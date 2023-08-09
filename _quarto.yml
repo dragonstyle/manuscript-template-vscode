@@ -6,9 +6,13 @@ execute:
 
 format:
   html:
+    title-block-style: manuscript      
     toc: true
+    toc-location: left
     comments:
       hypothesis: true
+    citations-hover: true
+    crossrefs-hover: true
   docx: default
   jats: default
   agu-pdf: default
